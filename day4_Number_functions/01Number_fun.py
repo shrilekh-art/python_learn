@@ -31,3 +31,5 @@ n = 2.5
 print(round(n))  # Output: 2
 n2 = 3.5    
 print(round(n2))  # Output: 4
+
+print(trunc(n2)) 
